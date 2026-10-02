@@ -1,0 +1,1 @@
+export default function SiteHeader(){return <header className="site-header"><a href="/" className="wordmark">tunegirl<span className="brand-dot">.</span></a><nav aria-label="Main navigation"><a href="/artist">Artist</a><a href="/music">Watch & listen</a><a href="/events">Dates</a><a href="/news">News</a><a href="/press">Press</a><a href="/booking">Booking</a></nav></header>}
